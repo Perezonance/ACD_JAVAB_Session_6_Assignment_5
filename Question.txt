@@ -1,0 +1,2 @@
+Finally blocks are always executed no matter what the outcome of a try block is. In some cases the try block may lead to a fatal error
+and it is necessary to have a final block run a last piece of code to collect data or notify the user.
